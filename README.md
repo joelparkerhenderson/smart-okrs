@@ -1,33 +1,85 @@
 <!--
   - browser: smart-okrs
   - tracker: 63247b3edce046f8d9df7d4a3b22e8ce
-  - version: 1.0.0
-  - updated: 2025-11-27T16:58:37Z
+  - version: 1.1.0
+  - updated: 2025-12-15T11:45:41Z
   - contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   - options: commentable
 -->
 
 # SMART OKRs
 
-SMART OKRs combines the strengths of SMART criteria for goals and the strengths of OKRs for management plans.
+SMART OKRs combines the strengths of SMART criteria for goals and the strengths of OKRs for management plans. SMART OKRs are the best way that I've found so far for working with teams in larger organizations. I welcome constructive feedback, issues, requests, and email.
 
-SMART criteria for goals:
+- **Before you read this page:** you may want to learn about [SMART criteria](https://github.com/joelparkerhenderson/smart-criteria) and [Objectives and Key Results](https://github.com/joelparkerhenderson/objectives-and-key-results); these are hotly debated within industries, and many people have many perspectives, so be sure to do your own research before you try them with teams.
 
-- **Specific/Strategic**: target one area clearly, precisely, and explicitly.
-- **Measurable/Motivating**: quantify progress toward success by using metrics.
-- **Actionable/Ambitious**: able to start, sustain, and complete.
-- **Relevant**: closely connected to what's happening and being considered.
-- **Timely/Tactical**: occurring at a time that is favorable, reservable, and bounded.
+- **If you're from Hacker News:** Read previous [Hacker News comments](https://github.com/joelparkerhenderson/objectives-and-key-results?tab=readme-ov-file#comments).
 
-OKRs for management plans:
+**SMART criteria for goals:**
 
-- Objective: what we want to achieve, as a one-sentence summary.
-- Key Result: how we produce progress and measure it with metrics.
+- **Specific**: target one area clearly, precisely, and explicitly.
+- **Measurable**: quantify progress toward success by using metrics.
+- **Actionable**: able to start, sustain, and complete; achievable.
+- **Relatable**: causally and logically connected; relevant.
+- **Timely**: occurring at a time that is favorable, reservable, and bounded.
 
-Links to more:
+**OKRs for management plans:**
 
-- [SMART criteria](https://github.com/joelparkerhenderson/smart-criteria)
-- [Objectives and Key Results](https://github.com/joelparkerhenderson/objectives-and-key-results)
+- **Objective**: what we want to achieve, as a one-sentence summary.
+- **Key Result**: how we produce progress and measure it with metrics.
+
+
+## Examples
+
+These examples show how to write a SMART bullet point. You can these examples to create your own SMART objective and SMART key results.
+
+**Growth examples:**
+
+- Improve {topic} by {x%} during {timeframe}. Measure by {metric}. SMART: {details}.
+
+- Increase {value} from {x} to {y} by {date}. Measure by {metric}. SMART: {details}.
+
+- Grow {amount} by {n} steps by {deadline}. Measure by {metric}. SMART: {details}.
+
+**Scoreboard examples:**
+
+- Boost {topic} score by {x%} during {timeframe}. Score by {metric}. SMART: {details}.
+
+- Raise rating of {topic} from {x} to {y} by {date}. Score by {metric}. SMART: {details}.
+
+- Achieve {n} points by {deadline}. Score by {metric}. SMART: {details}.
+
+**Capability examples:**
+
+- Run {process} for {purpose} during {timeframe}. Track by {metric}. SMART: {details}.
+
+- Launch {feature} for {benefit} on {date}. Track by {metric}. SMART: {details}.
+
+- Complete {task} for {initiative} by {deadline}. Track by {metric}. SMART: {details}.
+
+**Singular examples:**
+
+- Evaluate {choices} for {purpose} during {timeframe} and pick winner. Confirm by {metric}. SMART: {details}.
+
+- Present {topic} to {people} on {date} at {place}. Confirm by {metric}. SMART: {details}.
+
+- Get {item} because {reason} by {deadline}. Confirm by {metric}. SMART: {details}.
+
+**People examples:**
+
+- Interview {n} customers about {purpose} during {timeframe} and report results. Quantify by {metric}. SMART: {details}.
+
+- Ensure {n} partners are coming to {event} on {date}. Quantify by {metric}. SMART: {details}.
+
+- Manage {n} employees to accomplish {task} by {deadline}. Quantify by {metric}. SMART: {details}.
+
+**Process examples:**
+
+- Achieve lead time of {duration} during {timeframe}. Time by {metric}. SMART: {details}.
+
+- Fire-drill time to restore {n} times on {date}. Time by {metric}. SMART: {details}.
+
+- Accelerate service rate from {x} to {y} by {deadline}. Time by {metric}. SMART: {details}.
 
 ## Quickstart
 
@@ -153,9 +205,9 @@ Questions that may help:
 - What resources are needed? List any inputs, materials, budgets, approvals, etc.
 - How are the challenges? List any risks, assumptions, issues, dependencies, etc.
 
-### Relevant
+### Relatable
 
-Closely connected to what's happening and being considered.
+Causally and logically connected; relevant.
 
 Questions that may help:
 
@@ -206,138 +258,16 @@ Ground rules:
 
 ## What is an objective?
 
-Your objective should be:
+Your objective should be inspirational. It should provide a sense of meaning and progress. You want objectives to be ambitious enough to push you beyond your limits. Skip anything small such as a minimal percentage gain.
 
-- Inspirational
+When everyone does this, it motivates deep conversations about what's truly needed for expectations. The conversations can start with why you are choosing this objective over any other?
 
-  - Provide a sense of meaning and progress.
+Your objective should be truly yours. You can’t have any excuse such as "That other team didn't do their work." You can't have any excuse such as "That other team didn't measure it."
 
-  - Skip anything such as a small percentage gain.
-
-- Relatable
-
-  - Use language that you coworkers know and like.
-
-  - Skip abstract language and unfamiliar acronyms.
-
-- Actionable by you independently
-
-  - Your objective has to be truly yours.
-
-  - You can’t have any excuse such as "That other team didn't do their work."
-
-- Measurable by you independently
-
-  - You have to know your progress status.
-
-  - You can't have any excuse such as "That other team didn't measure it."
+Your objective is best when it is relatable to your broader work, such as your organization's vision statement, mission statement, values statement, and strategy statement.
 
 ## What is a key result?
 
-Key results take the inspirational and provide specific evidence.
+Key results take the inspirational and provide specific evidence. Each key result should be based on a simple question “how do we know we're making progress toward the objective?”
 
-Create key results by asking a simple question “how would we know if we met our objective?”
-
-Typically you have 1-3 key results.
-
-Metrics can be based on:
-
-- Growth
-- Engagement
-- Revenue
-- Performance
-- Quality
-
-For example, “Launch an Awesome MVP” might have KR’s of:
-
-- Net Promoter Score (NPS) of 8/10
-- 20% of users come back 2X in one week
-- 10% conversion
-
-## OKR purpose
-
-Each OKR is better when it connects to the organization's vision, mission, values, and strategy. Use these tips to help.
-
-- What is your vision statement, mission statement, values statement, and strategy statement?
-
-- How does this OKR connect to the vision, mission, values, and strategy?
-
-- Why are you choosing this specific OKR over any other?
-
-## OKR systems
-
-All high-performance OKR systems have commonalities.
-
-Ability to track results on a quantitative basis:
-
-- Key results are not general or subjective actions you plan to take.
-
-- They should always include numbers to make it clear how much has been achieved.
-
-- For example, if Mary’s objective is to improve her sales prospecting skills, one key result might be to spend two hours a week shadowing Jennifer, the team member who demonstrates the most prospecting success.
-
-Ability for people to look at every day:
-
-- This consistency turns goal-setting into a habit and changes how people think about their work and approach their everyday to-dos.
-
-- It puts in place natural milestones that make you think about what you need to do next and aim high.
-
-Ability to stretch:
-
-- You want objectives to be ambitious enough to push you beyond your limits.
-
-- When everyone does this, it forces tough conversations about what's truly needed for expectations.
-
-- Most people wouldn’t consider 70% to be a good grade, but for OKRs that’s perfect.
-
-## SMART objective examples
-
-A SMART objective is a quick easy format for writing a 
-
-Growth examples:
-
-- Improve {topic} by {x%} during {timeframe}. Measure by {metric}. SMART: {details}.
-
-- Increase {value} from {x} to {y} by {date}. Measure by {metric}. SMART: {details}.
-
-- Grow {amount} by {n} steps by {deadline}. Measure by {metric}. SMART: {details}.
-
-Scoreboard examples:
-
-- Boost {topic} score by {x%} during {timeframe}. Score by {metric}. SMART: {details}.
-
-- Raise rating of {topic} from {x} to {y} by {date}. Score by {metric}. SMART: {details}.
-
-- Achieve {n} points by {deadline}. Score by {metric}. SMART: {details}.
-
-Capability examples:
-
-- Run {process} for {purpose} during {timeframe}. Track by {metric}. SMART: {details}.
-
-- Launch {feature} for {benefit} on {date}. Track by {metric}. SMART: {details}.
-
-- Complete {task} for {initiative} by {deadline}. Track by {metric}. SMART: {details}.
-
-Singular examples:
-
-- Evaluate {choices} for {purpose} during {timeframe} and choose the result. Confirm by {metric}. SMART: {details}.
-
-- Present {topic} to {stakeholders} on {date} with the goal of {outcome}. Confirm by {metric}. SMART: {details}.
-
-- Get {item} for {reason} by {deadline}. Confirm by {metric}. SMART: {details}.
-
-People examples:
-
-- Interview {n} customers about {purpose} during {timeframe} and report results. Quantify by {metric}. SMART: {details}.
-
-- Ensure {n} partners are coming to {event} on {date}. Quantify by {metric}. SMART: {details}.
-
-- Manage {n} employees to accomplish {task} by {deadline}. Quantify by {metric}. SMART: {details}.
-
-Process examples:
-
-- Achieve lead time of {duration} during {timeframe}. Time by {metric}. SMART: {details}.
-
-- Fire-drill time to restore {n} times on {date}. Time by {metric}. SMART: {details}.
-
-- Accelerate service rate from {x} to {y} by {deadline}. Time by {metric}. SMART: {details}.
+Typically you have 2 or 3 key results, or more for larger objectives.
